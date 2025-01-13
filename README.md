@@ -1,2 +1,2 @@
-cnn attempt, understanding the math behind the nn's and more importanly becoming familiar with the elegant pytorch. Really does a lot of the work for you tbh.
+A Convolutional Neural Network trained on three categories of animals (cat, dog, misc.).<br>
 data: https://www.kaggle.com/datasets/andrewmvd/animal-faces
